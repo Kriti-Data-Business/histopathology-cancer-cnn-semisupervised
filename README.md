@@ -172,4 +172,9 @@ Special thanks to the medical imaging and open-source machine learning communiti
 
 ---
 
+## Dataset links 
+1. https://ieeexplore.ieee.org/document/7312934
+
+2. https://github.com/maduc7/Histopathology-Datasets
+
 Feel free to reach out if you want to contribute or discuss improvements!
